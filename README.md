@@ -66,7 +66,7 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
 
 - This application is geared towards anybody looking for a simple and professional-looking personalized logo.
 
-- The goal of this application is for users to save precious time by not having to come up with a logo from scratch, without compromising the quality of the produced image. 
+- The goal of this application is for users to save precious time by generating a custom quality logo that is personalized by each user. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
