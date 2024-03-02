@@ -72,10 +72,16 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+<div align="center">
+  <a href="https://github.com/beckpull/logo-generator">
+    <p>Here is an example of what this logo generator can do!</p>
+    <img src="./assets/logo-example.png" alt="Logo" width="200" height="200">
+  </a>
+ 
 <!-- Link to video demo -->
 
- * Click [here](./logo.svg) to view an attached a sample logo created using this generator. 
+ * Click [here](./output/logo.svg) to view an attached the sample SVG file (code snippet) created using this generator. 
+
  * Click [here](#) to watch a demo video on how to use this application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
