@@ -29,7 +29,8 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
   </p>
 </div>
 
-
+</br>
+</br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -56,6 +57,9 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
      <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+</br>
+</br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
