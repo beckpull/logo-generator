@@ -80,7 +80,7 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
  
 <!-- Link to video demo -->
 
- * Click [here](./output/logo.svg) to view an attached the sample SVG file (code snippet) created using this generator. 
+ * Click [here](./output/logo.svg) to view an attached the sample SVG file (the code snippet itself) created using this generator. 
 
  * Click [here](#) to watch a demo video on how to use this application.
 
