@@ -41,15 +41,21 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -69,6 +75,39 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+_This application has an Inquirer dependency and the jest DevDependency for testing purposes if interested_
+* npm
+  ```sh
+  npm install -g inquirer@8.2.4
+  npm install -g jest
+  ```
+
+### Installation
+
+_Below is an example of how you can install all external dependencies (and devDependencies)._
+
+1. Clone the repo
+   ```sh
+   HTTP: git clone https://github.com/beckpull/logo-generator.git
+   SSH: git clone git@github.com:beckpull/logo-generator.git
+   ```
+2. Install all necessary NPM packages
+   ```sh
+   npm i
+   ```
+3. Node `index.js`
+   ```js
+   node index.js
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -150,7 +189,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 * This README file template was created by [@othneildrew](https://github.com/othneildrew) - the original can be found [here](https://github.com/othneildrew/Best-README-Template)
-<!-- * [@NathaliaReyes](https://github.com/nathaliareyes) - thank you for your continued support and helping jumpstart me into this project ✨ -->
 
 #### Disclaimer: 
 > I utilized several articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs **as references** for the javascript code attached. 
