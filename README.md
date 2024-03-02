@@ -78,7 +78,7 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+<p align="center"><i><strong>✨ Everything you need to know ✨</strong></i></p>
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@ _This application has an Inquirer dependency and the jest DevDependency for test
 
 ### Installation
 
-_Below is an example of how you can install all external dependencies (and devDependencies)._
+_To get a local copy up and running follow these simple example steps:_
 
 1. Clone the repo
    ```sh
