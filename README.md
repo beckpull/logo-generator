@@ -6,6 +6,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</br>
+[![dependency - inquirer][inquirer-shield]][inquirer-url]
 
 <br />
 <div align="center">
@@ -76,6 +78,8 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
 
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![NodeJS]
+* ![jest-shield]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,5 +226,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Bulma]: https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/beckpull/
+[stackoverflow-shield]: https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[jest-shield]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
+[inquirer-shield]: https://img.shields.io/badge/dependency-inquirer-black
+[inquirer-url]: https://www.npmjs.com/package/inquirer
