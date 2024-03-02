@@ -115,8 +115,9 @@ _To get a local copy up and running follow these simple example steps:_
   <a href="https://github.com/beckpull/logo-generator/blob/main/assets/logo-example.png">
     <p>Here is an example of what this logo generator can do!</p>
     <img src="./assets/logo-example.png" alt="Logo" width="200" height="200">
-    <p align="right" style="font-size: 10px"><i>* background has been removed from this image</i></p>
   </a>
+  <p align="right" style="font-size: 10px"><i>* background has been removed from this image</i></p>
+
 </div>
  
 <!-- Link to video demo -->
