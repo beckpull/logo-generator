@@ -77,6 +77,7 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
     <p>Here is an example of what this logo generator can do!</p>
     <img src="./assets/logo-example.png" alt="Logo" width="200" height="200">
   </a>
+</div>
  
 <!-- Link to video demo -->
 
