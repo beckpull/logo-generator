@@ -23,7 +23,7 @@ A simple and easy-to-use professional logo generator so you can focus on what's 
     <a href="https://github.com/beckpull/logo-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://drive.google.com/file/d/13TTy1NqBNDfKeh9RUhrh8k5XILI_8U7X/view">View Demo</a>
     ·
     <a href="https://github.com/beckpull/logo-generator/issues">Report Bug</a>
     ·
@@ -132,7 +132,7 @@ _To get a local copy up and running follow these simple example steps:_
 
  * Click [here](./output/logo.svg) to view an attached the sample SVG file (the code snippet itself) created using this generator. 
 
- * Click [here](#) to watch a demo video on how to use this application.
+ * Click [here](https://drive.google.com/file/d/13TTy1NqBNDfKeh9RUhrh8k5XILI_8U7X/view) to watch a demo video on how to use this application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
